@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DevelopTools</string>
+
+    <!-- 自动更新 -->
+    <string name="update_download_failed">更新下载失败</string>
+    <string name="update_download_failed_msg">更新下载失败</string>
+    <string name="update_download_started">更新下载开始</string>
+    <string name="update_download_processing">更新下载中</string>
+    <string name="update_download_finish">更新下载结束</string>
+</resources>
